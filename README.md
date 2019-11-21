@@ -1,0 +1,2 @@
+# qucik
+sort alogorithm
